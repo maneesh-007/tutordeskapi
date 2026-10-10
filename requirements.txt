@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+alembic
+pymysql
+pwdlib[argon2]
+pydantic[email]
+jwt
